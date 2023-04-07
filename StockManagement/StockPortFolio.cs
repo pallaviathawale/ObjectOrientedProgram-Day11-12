@@ -27,6 +27,7 @@ namespace StockManagement
             report += $"Total value of all stocks: {totalValue}";
             return report;
         }
+       
     }
 }
 

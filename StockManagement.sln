@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOrientedPrograms", "StockManagement\ObjectOrientedPrograms.csproj", "{19928210-2008-4BEC-8D3F-1B03141CB000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedPrograms", "StockManagement\ObjectOrientedPrograms.csproj", "{19928210-2008-4BEC-8D3F-1B03141CB000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonInventoryDataManagement", "JsonInventoryDataManagement\JsonInventoryDataManagement.csproj", "{BEC8274D-A134-48E5-A232-9668F858B5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonInventoryDataManagement", "JsonInventoryDataManagement\JsonInventoryDataManagement.csproj", "{BEC8274D-A134-48E5-A232-9668F858B5D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeckOfCards", "DeckOfCards\DeckOfCards.csproj", "{E34A09F4-4C52-4711-B7B8-FF5CCCB71C7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommercialDataProcessing", "CommercialDataProcessing\CommercialDataProcessing.csproj", "{D504C708-6E2D-4072-A27E-4E1AD5F5D576}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{BEC8274D-A134-48E5-A232-9668F858B5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEC8274D-A134-48E5-A232-9668F858B5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEC8274D-A134-48E5-A232-9668F858B5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E34A09F4-4C52-4711-B7B8-FF5CCCB71C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34A09F4-4C52-4711-B7B8-FF5CCCB71C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34A09F4-4C52-4711-B7B8-FF5CCCB71C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34A09F4-4C52-4711-B7B8-FF5CCCB71C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D504C708-6E2D-4072-A27E-4E1AD5F5D576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D504C708-6E2D-4072-A27E-4E1AD5F5D576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D504C708-6E2D-4072-A27E-4E1AD5F5D576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D504C708-6E2D-4072-A27E-4E1AD5F5D576}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
